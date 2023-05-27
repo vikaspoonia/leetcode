@@ -1,4 +1,4 @@
-import java.util.HashMap;
+//Optimized Solution 
 
 class Solution {
     public boolean isAnagram(String s, String t) {
